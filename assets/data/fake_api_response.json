@@ -1,0 +1,94 @@
+{
+  "results": [
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+      "year": 2015,
+      "company": "CD Projekt Red"
+    },
+    {
+      "title": "Hollow Knight",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+      "year": 2017,
+      "company": "Team Cherry"
+    },
+    {
+      "title": "God of War",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg",
+      "year": 2018,
+      "company": "Santa Monica Studio"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+      "year": 2018,
+      "company": "Rockstar Games"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+      "year": 2020,
+      "company": "CD Projekt Red"
+    },
+    {
+      "title": "Elden Ring",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+      "year": 2022,
+      "company": "FromSoftware"
+    },
+    {
+      "title": "Stardew Valley",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg",
+      "year": 2016,
+      "company": "ConcernedApe"
+    },
+    {
+      "title": "Celeste",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/504230/header.jpg",
+      "year": 2018,
+      "company": "Matt Makes Games"
+    },
+    {
+      "title": "Death Stranding",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1190460/header.jpg",
+      "year": 2020,
+      "company": "Kojima Productions"
+    },
+    {
+      "title": "Disco Elysium",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header.jpg",
+      "year": 2019,
+      "company": "ZA/UM"
+    },
+    {
+      "title": "Portal 2",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
+      "year": 2011,
+      "company": "Valve"
+    },
+    {
+      "title": "Hades",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg",
+      "year": 2020,
+      "company": "Supergiant Games"
+    },
+    {
+      "title": "Bioshock Infinite",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/8870/header.jpg",
+      "year": 2013,
+      "company": "Irrational Games"
+    },
+    {
+      "title": "Resident Evil 4 Remake",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg",
+      "year": 2023,
+      "company": "Capcom"
+    },
+    {
+      "title": "Sekiro: Shadows Die Twice",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+      "year": 2019,
+      "company": "FromSoftware"
+    }
+  ]
+}
