@@ -13,10 +13,10 @@ GameTracker is a Flutter app that allows users to search, save, and track their 
 
 ## 📸 Screenshots
 
-<img src="assets/screenshots/initial_screen.png" width="400"/>
-<img src="assets/screenshots/search_screen.png" width="400"/>
-<img src="assets/screenshots/game_details_screen.png" width="400"/>
-<img src="assets/screenshots/dark_mode.png" width="400"/>
+<img src="assets/screenshots/initial_screen.png" width="200"/>
+<img src="assets/screenshots/search_screen.png" width="200"/>
+<img src="assets/screenshots/game_details_screen.png" width="200"/>
+<img src="assets/screenshots/dark_mode.png" width="200"/>
 
 
 ## 🛠️ Technologies Used
